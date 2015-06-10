@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<data>
+	<User name="User to use">
+		<username>jphelps</username>
+		<password>jphelps1</password>
+	</User>
+
+	<Sites name="Site Setup">
+		<ip>http://10.40.24.207/</ip>
+		<!-- add your site here Virtualroot/Site  -->
+		<!-- site>imis/mbr</site -->
+		<!-- site>imis/staff</site -->
+		<!-- site>imis/mbrr</site -->
+		<!-- site>imis/imisdonor</site -->
+		<site>imisPublIc</site>
+		<site>imis/aDMin</site>
+	</Sites>
+</data>
